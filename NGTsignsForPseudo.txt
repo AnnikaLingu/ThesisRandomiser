@@ -1,0 +1,53 @@
+BRUS-B.mov,SPR,broer, zus, neef, nicht
+DANSEN-A.mov,SPR,dansen, ballet, dans
+DOOR-ELKAAR-C.mov,SPR,proces, rommel, rommelen, (alsmaar) doorgaan, mengen, door elkaar
+ENZOVOORTS-C.mov,SPR,enzovoorts
+HOEVEEL.mov,SPR,hoeveel, enkele, paar, sommige
+KIJKEN-A.mov,SPR,kijken, observeren, gadeslaan, iets of iemand bestuderen, bekijken, toezien, toezicht, zien, beschouwen
+REGEN-A.mov,SPR,motregen, stortregen, bui, regen, miezerig
+REGERING-A.mov,SPR,overheid, regering, minister, bestuur, vergadering, vergaderen, besturen
+REKENEN-A.mov,SPR,getal, rekenen, aantal, tellen
+RIJ.mov,SPR,in de rij staan, rij van mensen, rij
+ROOSTER.mov,SPR,tabel, rooster, schema, overzicht, Excel
+TELLEN.mov,SPR,tellen, paar, sommige, sommigen, aantal, aantallen
+TWEEEN-A.mov,SPR,wij tweeen, jullie tweeen, wij, jullie, zij, samen, elkaar, allebei, tweeling, tweeen, ons
+VERSCHILLENDE-A.mov,SPR,verschillen, enzovoorts, diverse(n), verschillende, van alles wat
+VOORSTELLEN-A.mov,SPR,dromen, voorstelling, droom, fantasie, fantaseren, verzinnen, zich iets voorstellen
+APART-A.mov,NEX,apart, het een apart van de ander, erbuiten laten, afscheiden, uit elkaar houden
+BIJEENKOMEN.mov,NEX,integreren, bijeenkomen, samen komen, groep komt bijeen
+COMMUNICATIE.mov,NEX,communicatie, cursus
+ENE-KANT-ANDERE-KANT.mov,NEX,aan de ene kant-aan de andere kant, enerzijds-anderzijds, beiden, of dit of dat, richting, ene kant andere kant
+GELIJK-NIVEAU.mov,NEX,gelijkwaardig, bij elkaar aansluiten, op zelfde hoogte, neutraal, gelijk niveau
+ONTMOETEN.mov,NEX,ontmoeten, elkaar tegenkomen, treffen
+OORLOG-A.mov,NEX,oorlog, gevecht, ruzie
+OVEREENKOMST.mov,NEX,overeenkomst, akkoord, agreement, compromis
+RUZIE-A.mov,NEX,ruzie, oorlog, vijandig, conflicten
+SAMEN-B.mov,NEX,samen, als partners samen, een stel zijn, twee personen zijn samen, twee partijen zijn samen
+SCHEIDEN.mov,NEX,scheiding, uit elkaar, scheiden, van elkaar af, echtscheiding
+SYNONIEM.mov,NEX,synoniem
+ZELFDE-A.mov,NEX,lijken op, alsof, ook, dezelfde, zelfde, zelfde, hetzelfde, hetzelfde als, vergelijkbaar, gelijk, consequent, gelijkwaardig
+ZUS-C.mov,NEX,zus, broer
+AFRONDEN.mov,ROT,afronden, afmaken, afwerken, afkrijgen, voltooien, afgerond, beeSPRigen, afkappen, nu stoppen, naar een afronding toe werken
+BEGINNEN-A.mov,ROT,begin, beginnen, hup, laten we starten, bij aanvang, in het begin, toen het begon, begonnen
+BESLUITEN-B.mov,ROT,vaststellen, beslissen, bepalen, besluit, besloten, bepaald, knoop doorhakken, besluiten, beslissing, zo doen
+BREKEN.mov,ROT,breken, knakken, kapot, iets kapot maken, kapot breken. Een staaf breken, potlood breken, een buis breken, een tak breken, een langwerpig iets breken
+DRAAIEN.mov,ROT,draaien, draaiknop, kran, kraan, Philips, een peertje erin draaien, omdraaien, met de kraan reguleren, aandraaien, ESPRhoven, opendraaien, dichtdraaien, traditionele kraan met draaikoppen
+LAPTOP.mov,ROT,omkeren,laptop
+OMKEREN.mov,ROT,omkeren, overleden, bekeren, dopen, omdraaien, keren, pannenkoek(en) omkeren, weerleggen, een plat iets omdraaien, twee of meerdere platte objecten omdraaien, op de andere kant leggen
+OVERLIJDEN.mov,ROT,overlijden, sterven, dood, overleden, doodgaan
+SCHAKELEN-B.mov,ROT,tussen verschillende situaties wisselen, afwisselen, om en om, schakelen, switchen, omschakelen, transfer, iets omzetten, een situatie of uitgangspunt veranderen, overgang, overgaan
+SLUITEN.mov,ROT,uitsluiten, afsluiten, sluiten, opsluiten, dicht, gesloten, beeSPRigen, op slot, op slot doen, uit doen ,,,,
+UIT-ELKAAR-VALLEN.mov,ROT,uit elkaar vallen, groep valt uit elkaar, takjes of pennen/potloden tegen elkaar opgestapeld vallen uit elkaar, iets opgestapeld tegen elkaar valt uit elkaar, mikado valt uit elkaar
+VERANDEREN-A.mov,ROT,andersom, veranderen, switchen, omzetten, verandering
+ZICH-BEDENKEN.mov,ROT,zich bedenken, van gedachten veranderen, zich bekeren, terugdraaien van voorstel/idea
+ERGENS-A.mov,SPR,ergens, daar ergens
+OMGEVING-A.mov,SPR,omgeving, zij, hen, de mensen, milieu, natuur, jullie, allemaal, klimaat
+PARASOL.mov,SPR,parasol, koepel
+REGIO-A.mov,SPR,gebied, omgeving, regio, landelijk, overal
+RUIMTE-A.mov,SPR,gebied, familie, omgeving, algemeen, maatschappij, groep mensen, regio, situatie, milieu wijk, kamer, plaats, ruimte, ergens, buurt
+SOMS-A.mov,SPR,soms
+VAAG.mov,SPR,vaag, niet duidelijk, onduidelijk
+VERSPREIDEN-A.mov,SPR,verspreiden, netwerk
+VERWARD-A.mov,SPR,verward, verwarring, in de war, war, vergissen, vergissing, zich vergissen, verwarren
+WAAR-A.mov,SPR,waarom, waar
+SCHAKELEN-LICHT.mov,ROT,licht aanschakelen

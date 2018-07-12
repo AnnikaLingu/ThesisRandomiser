@@ -1,0 +1,54 @@
+Gloss, corr_resp, other_resp 
+BRUS-B.mov, neef,ruzie
+DANSEN-A.mov, rekenen, richting
+DOOR-ELKAAR-C.mov, tellen, schakelen
+ENZOVOORTS-C.mov, bui, cursus
+HOEVEEL.mov,verschillen,begin
+KIJKEN-A.mov, tellen, dopen
+REGEN-A.mov, gadeslaan, samen komen
+REGERING-A.mov, zus, kran
+REKENEN-A.mov,enzovoorts, dood
+RIJ.mov, rommel,afronden
+ROOSTER.mov, door elkaar,synoniem
+TELLEN.mov,verschillen, richting
+TWEEEN-A.mov,tabel, sterven
+VERSCHILLENDE-A.mov, stortregen, beslissen
+VOORSTELLEN-A.mov, tellen, elkaar tegenkomen
+APART-A.mov, bij elkaar aansluiten,omkeren
+BIJEENKOMEN.mov, of dit of dat, verandering
+COMMUNICATIE.mov, ruzie, iets of iemand bestuderen
+ENE-KANT-ANDERE-KANT.mov,lijken op,soms
+GELIJK-NIVEAU.mov, ruzie, rekenen
+ONTMOETEN.mov, samen komen,vaag
+OORLOG-A.mov,aan de ene kant-aan de andere kant, Excel
+OVEREENKOMST.mov, broer, veranderen
+RUZIE-A.mov, ruzie, rommel
+SAMEN-B.mov, uit elkaar, overleden
+SCHEIDEN.mov,synoniem,omkeren
+SYNONIEM.mov, bijeenkomen, een plat iets omdraaien
+ZELFDE-A.mov, gelijk,vaststellen
+ZUS-C.mov, elkaar tegenkomen, laten we starten
+AFRONDEN.mov, iets omzetten, broer
+BEGINNEN-A.mov,zich bedenken,integreren
+BESLUITEN-B.mov, afkrijgen, jullie tweeen
+BREKEN.mov, terugdraaien van voorstel/idea, schema
+DRAAIEN.mov,, twee partijen zijn samen
+LAPTOP.mov, een peertje erin draaien, vergelijkbaar
+OMKEREN.mov, dood, diverse(n)
+OVERLIJDEN.mov, omschakelen, elkaar tegenkomen
+SCHAKELEN-B.mov, naar een afronding toe werken, stortregen
+SLUITEN.mov, overgang, dans
+UIT-ELKAAR-VALLEN.mov, dood, neef
+VERANDEREN-A.mov, op slot, niet duidelijk
+ZICH-BEDENKEN.mov, switchen, tellen
+ERGENS-A.mov, daar ergens,overlijden
+OMGEVING-A.mov, milieu,
+PARASOL.mov,soms,synoniem
+REGIO-A.mov, algemeen,synoniem
+RUIMTE-A.mov,soms,begin
+SOMS-A.mov,ergens, verandering
+VAAG.mov,soms, afmaken
+VERSPREIDEN-A.mov,soms,licht aanschakelen
+VERWARD-A.mov, netwerk, zich bekeren
+WAAR-A.mov, waar, ruzie
+SCHAKELEN-LICHT.mov, weerleggen, broer
