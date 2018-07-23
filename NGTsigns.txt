@@ -36,10 +36,9 @@ LAPTOP.mov,ROT,omkeren,laptop
 OMKEREN.mov,ROT,omkeren, overleden, bekeren, dopen, omdraaien, keren, pannenkoek(en) omkeren, weerleggen, een plat iets omdraaien, twee of meerdere platte objecten omdraaien, op de andere kant leggen
 OVERLIJDEN.mov,ROT,overlijden, sterven, dood, overleden, doodgaan
 SCHAKELEN-B.mov,ROT,tussen verschillende situaties wisselen, afwisselen, om en om, schakelen, switchen, omschakelen, transfer, iets omzetten, een situatie of uitgangspunt veranderen, overgang, overgaan
-SLUITEN.mov,ROT,uitsluiten, afsluiten, sluiten, opsluiten, dicht, gesloten, beeindigen, op slot, op slot doen, uit doen ,,,,
-UIT-ELKAAR-VALLEN.mov,ROT,uit elkaar vallen, groep valt uit elkaar, takjes of pennen/potloden tegen elkaar opgestapeld vallen uit elkaar, iets opgestapeld tegen elkaar valt uit elkaar, mikado valt uit elkaar
+SLUITEN.mov,ROT,uitsluiten, afsluiten, sluiten, opsluiten, dicht, gesloten, beeindigen, op slot, op slot doen, uit doen
+UIT-ELKAAR-VALLEN.mov,ROT,uit elkaar vallen, groep valt uit elkaar, pennen tegen elkaar opgestapeld vallen uit elkaar, iets opgestapeld tegen elkaar valt uit elkaar, mikado valt uit elkaar
 VERANDEREN-A.mov,ROT,andersom, veranderen, switchen, omzetten, verandering
-ZICH-BEDENKEN.mov,ROT,zich bedenken, van gedachten veranderen, zich bekeren, terugdraaien van voorstel/idea
 ERGENS-A.mov,WID,ergens, daar ergens
 OMGEVING-A.mov,WID,omgeving, zij, hen, de mensen, milieu, natuur, jullie, allemaal, klimaat
 PARASOL.mov,WID,parasol, koepel
