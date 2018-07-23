@@ -31,7 +31,7 @@ vidlist = readfile("Pseudosigns.txt")           #List of videos: VIDEO, FMU
 for i in range(len(resplist)):
     for j in range(len(resplist[i])):
         if j < 2:
-            translation = []    #Exclude GLOSS and FMU from translations
+            translation = []    #Separate GLOSS and FMU from translations
         else:
             translation.append(resplist[i][j])  #Append all translations in line
     templist.append(resplist[i][1]) #Append FMU to templist
