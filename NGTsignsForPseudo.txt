@@ -31,13 +31,13 @@ AFRONDEN.mov,ROT,afronden, afmaken, afwerken, afkrijgen, voltooien, afgerond, be
 BEGINNEN-A.mov,ROT,begin, beginnen, hup, laten we starten, bij aanvang, in het begin, toen het begon, begonnen
 BESLUITEN-B.mov,ROT,vaststellen, beslissen, bepalen, besluit, besloten, bepaald, knoop doorhakken, besluiten, beslissing, zo doen
 BREKEN.mov,ROT,breken, knakken, kapot, iets kapot maken, kapot breken. Een staaf breken, potlood breken, een buis breken, een tak breken, een langwerpig iets breken
-DRAAIEN.mov,ROT,draaien, draaiknop, kran, kraan, Philips, een peertje erin draaien, omdraaien, met de kraan reguleren, aandraaien, ESPRhoven, opendraaien, dichtdraaien, traditionele kraan met draaikoppen
+DRAAIEN.mov,ROT,draaien, draaiknop, kran, kraan, Philips, een peertje erin draaien, omdraaien, met de kraan reguleren, aandraaien, Eindhoven, opendraaien, dichtdraaien, traditionele kraan met draaikoppen
 LAPTOP.mov,ROT,omkeren,laptop
 OMKEREN.mov,ROT,omkeren, overleden, bekeren, dopen, omdraaien, keren, pannenkoek(en) omkeren, weerleggen, een plat iets omdraaien, twee of meerdere platte objecten omdraaien, op de andere kant leggen
 OVERLIJDEN.mov,ROT,overlijden, sterven, dood, overleden, doodgaan
 SCHAKELEN-B.mov,ROT,tussen verschillende situaties wisselen, afwisselen, om en om, schakelen, switchen, omschakelen, transfer, iets omzetten, een situatie of uitgangspunt veranderen, overgang, overgaan
-SLUITEN.mov,ROT,uitsluiten, afsluiten, sluiten, opsluiten, dicht, gesloten, beeSPRigen, op slot, op slot doen, uit doen ,,,,
-UIT-ELKAAR-VALLEN.mov,ROT,uit elkaar vallen, groep valt uit elkaar, takjes of pennen/potloden tegen elkaar opgestapeld vallen uit elkaar, iets opgestapeld tegen elkaar valt uit elkaar, mikado valt uit elkaar
+SLUITEN.mov,ROT,uitsluiten, afsluiten, sluiten, opsluiten, dicht, gesloten, beeindigen, op slot, op slot doen, uit doen
+UIT-ELKAAR-VALLEN.mov,ROT,uit elkaar vallen, groep valt uit elkaar, pennen tegen elkaar opgestapeld vallen uit elkaar, iets opgestapeld tegen elkaar valt uit elkaar, mikado valt uit elkaar
 VERANDEREN-A.mov,ROT,andersom, veranderen, switchen, omzetten, verandering
 ZICH-BEDENKEN.mov,ROT,zich bedenken, van gedachten veranderen, zich bekeren, terugdraaien van voorstel/idea
 ERGENS-A.mov,SPR,ergens, daar ergens
