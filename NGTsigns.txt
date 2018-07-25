@@ -13,17 +13,13 @@ TELLEN.mov,IND,tellen, paar, sommige, sommigen, aantal, aantallen
 TWEEEN-A.mov,IND,wij tweeen, jullie tweeen, wij, jullie, zij, samen, elkaar, allebei, tweeling, tweeen, ons
 VERSCHILLENDE-A.mov,IND,verschillen, enzovoorts, diverse(n), verschillende, van alles wat
 VOORSTELLEN-A.mov,IND,dromen, voorstelling, droom, fantasie, fantaseren, verzinnen, zich iets voorstellen
-APART-A.mov,NEX,apart, het een apart van de ander, erbuiten laten, afscheiden, uit elkaar houden
-BIJEENKOMEN.mov,NEX,integreren, bijeenkomen, samen komen, groep komt bijeen
 COMMUNICATIE.mov,NEX,communicatie, cursus
 ENE-KANT-ANDERE-KANT.mov,NEX,aan de ene kant-aan de andere kant, enerzijds-anderzijds, beiden, of dit of dat, richting, ene kant andere kant
 GELIJK-NIVEAU.mov,NEX,gelijkwaardig, bij elkaar aansluiten, op zelfde hoogte, neutraal, gelijk niveau
 ONTMOETEN.mov,NEX,ontmoeten, elkaar tegenkomen, treffen
-OORLOG-A.mov,NEX,oorlog, gevecht, ruzie
 OVEREENKOMST.mov,NEX,overeenkomst, akkoord, agreement, compromis
 RUZIE-A.mov,NEX,ruzie, oorlog, vijandig, conflicten
 SAMEN-B.mov,NEX,samen, als partners samen, een stel zijn, twee personen zijn samen, twee partijen zijn samen
-SCHEIDEN.mov,NEX,scheiding, uit elkaar, scheiden, van elkaar af, echtscheiding
 SYNONIEM.mov,NEX,synoniem
 ZELFDE-A.mov,NEX,lijken op, alsof, ook, dezelfde, zelfde, zelfde, hetzelfde, hetzelfde als, vergelijkbaar, gelijk, consequent, gelijkwaardig
 ZUS-C.mov,NEX,zus, broer
