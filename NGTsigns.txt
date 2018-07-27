@@ -7,7 +7,6 @@ RIJ.mov,IND,in de rij staan, rij van mensen, rij
 ROOSTER.mov,IND,tabel, rooster, schema, overzicht, Excel
 TELLEN.mov,IND,tellen, paar, sommige, sommigen, aantal, aantallen
 TWEEEN-A.mov,IND,wij tweeen, jullie tweeen, wij, jullie, zij, samen, elkaar, allebei, tweeling, tweeen, ons
-VERSCHILLENDE-A.mov,IND,verschillen, enzovoorts, diverse(n), verschillende, van alles wat
 VOORSTELLEN-A.mov,IND,dromen, voorstelling, droom, fantasie, fantaseren, verzinnen, zich iets voorstellen
 COMMUNICATIE.mov,NEX,communicatie, cursus
 ENE-KANT-ANDERE-KANT.mov,NEX,aan de ene kant-aan de andere kant, enerzijds-anderzijds, beiden, of dit of dat, richting, ene kant andere kant
