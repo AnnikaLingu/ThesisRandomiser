@@ -46,8 +46,17 @@ def randomiser(number, inputfile, respfile):
 
         for i in range(len(vidlist)):
             gloss = vidlist[i][0]
-            fmu = vidlist[i][1]
-
+            print(gloss)
+            fmu_real = vidlist[i][1]
+            if fmu_real == 'SPR':
+                random = randint(0,1)
+                if random == 0:
+                    fmu = 'IND'
+                else:
+                    fmu = 'WID'
+            else:
+                fmu = fmu_real
+            print(fmu)
             # search for correct response -> shares fmu with gloss-line
             l = randint(0,len(resplist)-1)
             while experimentlist[l][0] != fmu:          #search for a line that has the target fmu
@@ -67,6 +76,8 @@ def randomiser(number, inputfile, respfile):
             outputlist[i].append(gloss)
             outputlist[i].append(corr_resp)
             outputlist[i].append(other_resp)
+            if fmu == 'IND' or fmu == 'WID':
+                fmu = 'SPR'
             outputlist[i].append(fmu)
             outputlist[i].append('')
             outputlist[i].append('')
@@ -83,6 +94,8 @@ def listmaker(number):
         for j in range(len(vidlist)-1):
             gloss = vidlist[j+1][0]
             fmu = vidlist[j+1][3]
+            if fmu in 'IND,WID':
+                fmu = 'SPR'
             if j%2 == 0:
                 #print('j+1 is '+str(j+1))
                 #print('even row')
@@ -114,5 +127,5 @@ def listmaker(number):
         print("i'm done with ordered list for pp " + str(i))
 
 
-randomiser(20, "pseudosigns.txt", "ngtsignsforpseudo.txt")
+randomiser(20, "pseudosigns.txt", "ngtsigns.txt")
 listmaker(20)
