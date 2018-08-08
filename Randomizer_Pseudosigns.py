@@ -127,5 +127,5 @@ def listmaker(number):
         print("i'm done with ordered list for pp " + str(i))
 
 
-randomiser(20, "pseudosigns.txt", "ngtsigns.txt")
-listmaker(20)
+randomiser(1, "pseudosigns.txt", "ngtsigns.txt")
+listmaker(1)

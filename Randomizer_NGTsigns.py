@@ -130,5 +130,5 @@ def listmaker(number):
         create_output = outputfile("pp" + str(i) + "_ngtsigns.txt", cleanoutputlist, output_header)
         print("i'm done with ordered list for pp " + str(i))
 
-randomiser(20, inputlist)
-listmaker(20)
+randomiser(21, inputlist)
+listmaker(21)
