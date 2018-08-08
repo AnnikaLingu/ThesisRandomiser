@@ -30,6 +30,7 @@ def randomiser(number, inputfile, respfile):
         resplist = readfile(respfile)    #inputfile for list of response options: gloss, fmu, translation1, translation2,...,translationn
         vidlist = readfile(inputfile)           #list of videos: video, fmu
 
+
         # create list of fmus with translation options
         for i in range(len(resplist)):
             for j in range(len(resplist[i])):
@@ -41,13 +42,14 @@ def randomiser(number, inputfile, respfile):
             templist.append(translation)    #append all translation options for fmu in this line
             experimentlist.append(templist)
             templist = []
+            print('Experimentlist is ' + str(len(experimentlist)) + ' long')
 
-        for i in range(len(experimentlist)):
+        for i in range(len(vidlist)):
             gloss = vidlist[i][0]
             fmu = vidlist[i][1]
 
             # search for correct response -> shares fmu with gloss-line
-            l = randint(0,len(experimentlist)-1)
+            l = randint(0,len(resplist)-1)
             while experimentlist[l][0] != fmu:          #search for a line that has the target fmu
                 l = randint(0,len(experimentlist)-1)
             o = randint(0,len(experimentlist[l][1])-1)  #within line, pick a random translation
@@ -82,14 +84,14 @@ def listmaker(number):
             gloss = vidlist[j+1][0]
             fmu = vidlist[j+1][3]
             if j%2 == 0:
-                print('j+1 is '+str(j+1))
-                print('even row')
+                #print('j+1 is '+str(j+1))
+                #print('even row')
                 resp_right = vidlist[j+1][1]  #correct response
                 resp_left = vidlist[j+1][2]   #distractor
                 correct_response = "r"
             else:
-                print('j+1 is '+str(j+1))
-                print('uneven row')
+                #print('j+1 is '+str(j+1))
+                #print('uneven row')
                 resp_right = vidlist[j+1][2]  #distractor
                 resp_left = vidlist[j+1][1]   #correct response
                 correct_response = "l"
@@ -103,11 +105,11 @@ def listmaker(number):
             outputlist[j].append(fmu)
             outputlist[j].append("pseudo")
 
-        print(outputlist)
+        #print(outputlist)
 
         cleanoutputlist = [x for x in outputlist if x != []]
 
-        print(cleanoutputlist)
+        #print(cleanoutputlist)
         create_output = outputfile("pp" + str(i) + "_pseudoigns.txt", cleanoutputlist, output_header)
         print("i'm done with ordered list for pp " + str(i))
 
