@@ -35,5 +35,4 @@ REGIO-A.mov,WID,gebied,omgeving,regio,landelijk,overal
 RUIMTE-A.mov,WID,gebied,familie,omgeving,algemeen,maatschappij,groep mensen,regio,situatie,milieu wijk,kamer,plaats,ruimte,ergens,buurt
 SOMS-A.mov,WID,soms,af en toe
 VERSPREIDEN-A.mov,WID,verspreiden,netwerk
-VERWARD-A.mov,WID,verward,verwarring,in de war,war,vergissen,vergissing,zich vergissen,verwarren
 WAAR-A.mov,WID,waarom,waar
