@@ -123,7 +123,7 @@ def listmaker(number):
         cleanoutputlist = [x for x in outputlist if x != []]
 
         #print(cleanoutputlist)
-        create_output = outputfile("pp" + str(i) + "_pseudoigns.csv", cleanoutputlist, output_header)
+        create_output = outputfile("pp" + str(i) + "_pseudosigns.csv", cleanoutputlist, output_header)
         print("i'm done with ordered list for pp " + str(i))
 
 
