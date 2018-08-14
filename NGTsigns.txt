@@ -12,7 +12,7 @@ COMMUNICATIE.mov,NEX,communicatie,cursus
 ENE-KANT-ANDERE-KANT.mov,NEX,enerzijds-anderzijds,beiden,of dit of dat,richting,ene kant andere kant
 GELIJK-NIVEAU.mov,NEX,gelijkwaardig,bij elkaar aansluiten,op de zelfde hoogte,neutraal,gelijk niveau
 ONTMOETEN.mov,NEX,ontmoeten,elkaar tegenkomen,treffen
-OVEREENKOMST.mov,NEX,overeenkomst,akkoord,agreement,compromis
+OVEREENKOMST.mov,NEX,overeenkomst,akkoord,compromis
 RUZIE-A.mov,NEX,ruzie,oorlog,vijandig,conflicten
 SAMEN-B.mov,NEX,samen,als partners samen,een stel zijn,twee personen zijn samen,twee partijen zijn samen
 SYNONIEM.mov,NEX,synoniem
