@@ -1,7 +1,7 @@
 # ThesisRandomiser
 
 <Randomizer Master Thesis >
-Copyright (C) <2018, Julia Egger and Annika Schiefner>
+Copyright (C) <2018, Annika Schiefner>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
