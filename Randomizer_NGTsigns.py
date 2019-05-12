@@ -1,4 +1,4 @@
-###randomizer für annika
+###Randomizer created by Annika Schiefner and Julia Egger
 from random import shuffle, choice, random, randint
 import sys
 
